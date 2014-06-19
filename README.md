@@ -25,7 +25,7 @@
 
 :boom: Or with other animals: tux, dinosaur, cow, cock.
 
-`$worldcup-predict TEAM1 TEAM2 --animal dinosaur`
+`$ worldcup-predict TEAM1 TEAM2 --animal dinosaur`
 ```
   _______________
  | TEAM1 < TEAM2 |
