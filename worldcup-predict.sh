@@ -18,57 +18,22 @@ usage() {
 
 # Show Tux 
 tux() {
-    echo "   \\"
-    echo "    \\"
-    echo "        .--."
-    echo "       |o_o |"
-    echo "       |:_/ |"
-    echo "      //   \ \\"
-    echo "     (|     | )"
-    echo "    /'\_   _/\`\\"
-    echo "    \\___)=(___/"
+    cat tux.ani
 }
 
 # Show Dinosaur
 dinosaur() {
-    echo "\\                             .       ."
-    echo " \\                           / \`.   .' \" "
-    echo "  \\                  .---.  <    > <    >  .---."
-    echo "   \                 |    \\  \\ - ~ ~ - /  /    |"
-    echo "         _____          ..-~             ~-..-~"
-    echo "        |     |   \\~~~\\.'                    \`./~~~/"
-    echo "       ---------   \\__/                        \\__/"
-    echo "      .'  O    \\     /               /       \\  \" "
-    echo "     (_____,    \`._.'               |         }  \\/~~~/"
-    echo "      \`----.          /       }     |        /    \\__/"
-    echo "            \`-.      |       /      |       /      \`. ,~~|"
-    echo "                ~-.__|      /_ - ~ ^|      /- _      \`..-'   "
-    echo "                     |     /        |     /     ~-.     \`-. _  _  _"
-    echo "                     |_____|        |_____|         ~ - . _ _ _ _ _>"
+    cat dinosaur.ani
 }
 
 # Show Cow
 cow() {
-    echo "        \\   ^__^"
-    echo "         \\  (oo)\\_______"
-    echo "            (__)\\       )\\/\\"
-    echo "                ||--WWW |"
-    echo "                ||     ||"
+    cat cow.ani
 }
 
 # Show Cock
 cock() {
-    echo "    \\"
-    echo "     \\  /\\/\\"
-    echo "       \\   /"
-    echo "       |  0 >>"
-    echo "       |___|"
-    echo " __((_<|   |"
-    echo "(          |"	
-    echo "(__________)"	
-    echo "   |      |"
-    echo "   |      |"
-    echo "   /\\     /\\"
+    cat cock.ani
 }
 
 # Predict result of a match
